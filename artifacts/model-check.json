@@ -1,0 +1,49 @@
+{
+  "method": "CPU geometry and animation transforms; screenshot/motion evidence is separate",
+  "maps": [
+    {
+      "id": 1,
+      "name": "Lavender Yard",
+      "triangles": 41508
+    },
+    {
+      "id": 2,
+      "name": "Soda Docks",
+      "triangles": 27720
+    },
+    {
+      "id": 3,
+      "name": "Blockworks",
+      "triangles": 27720
+    },
+    {
+      "id": 4,
+      "name": "Mint Glasshouse",
+      "triangles": 81720
+    },
+    {
+      "id": 5,
+      "name": "Sunset Rooftops",
+      "triangles": 32148
+    },
+    {
+      "id": 6,
+      "name": "Arcade Alley",
+      "triangles": 48384
+    }
+  ],
+  "meshes": 45,
+  "totalTriangles": 276000,
+  "poses": [
+    {
+      "name": "BlueBloxBoy",
+      "frames": 240,
+      "sourceCovered": true
+    },
+    {
+      "name": "CoralBloxBoy",
+      "frames": 240,
+      "sourceCovered": true
+    }
+  ]
+}

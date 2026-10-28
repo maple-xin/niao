@@ -1,0 +1,1164 @@
+[
+  {
+    "check": "map-1-start-390",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 0.11666666666666665,
+    "remaining": 59.88333333333333,
+    "shares": [
+      0.9561304836895388,
+      1.856017997750281
+    ],
+    "counts": [
+      51,
+      99
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -1.15,
+        "z": 5.9,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 56,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": -0.23649497740146616,
+        "z": 2.0459799096058635,
+        "heading": -0.24497866312686656,
+        "charge": 0.9731666666666665,
+        "splashing": true,
+        "travel": 0.1504726466307735,
+        "paint": 99,
+        "stolen": 5,
+        "path": 8
+      }
+    ],
+    "winner": null,
+    "frame": 30,
+    "draws": 26,
+    "triangles": 65698,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 17.219999999999995,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -1.7669673964266692,
+        0.3500201434320904,
+        4.2094074470890686
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.99327908973984,
+        499.318458268255
+      ],
+      "head": [
+        194.99289975689894,
+        439.72451099133286
+      ],
+      "widthAtPlayer": 7.818955448257019
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "map-2-start-390",
+    "mapId": 2,
+    "mapName": "Soda Docks",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 0.11666666666666665,
+    "remaining": 59.88333333333333,
+    "shares": [
+      1.0625,
+      2.9166666666666665
+    ],
+    "counts": [
+      51,
+      140
+    ],
+    "total": 4800,
+    "actors": [
+      {
+        "x": -4.5,
+        "z": 5.7,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 51,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 4.5,
+        "z": -5.5495273533692275,
+        "heading": -0.4041296601282298,
+        "charge": 0.9731666666666665,
+        "splashing": true,
+        "travel": 0.15047264663077264,
+        "paint": 140,
+        "stolen": 0,
+        "path": 5
+      }
+    ],
+    "winner": null,
+    "frame": 75,
+    "draws": 18,
+    "triangles": 43402,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.878666666666664,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -5.116993587391278,
+        0.35001802173058383,
+        4.009378130653197
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.9939869954402,
+        499.31980676809553
+      ],
+      "head": [
+        194.99364761694798,
+        439.72587581523317
+      ],
+      "widthAtPlayer": 7.818948139572728
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "map-3-start-390",
+    "mapId": 3,
+    "mapName": "Blockworks",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 0.16666666666666666,
+    "remaining": 59.833333333333336,
+    "shares": [
+      1.1136712749615976,
+      3.110599078341014
+    ],
+    "counts": [
+      58,
+      162
+    ],
+    "total": 5208,
+    "actors": [
+      {
+        "x": -0.5,
+        "z": 7.6,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 58,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 0.4470658567006632,
+        "z": -7.361796355152984,
+        "heading": -0.21866894587394345,
+        "charge": 0.9616666666666664,
+        "splashing": true,
+        "travel": 0.24401434372847372,
+        "paint": 162,
+        "stolen": 0,
+        "path": 6
+      }
+    ],
+    "winner": null,
+    "frame": 120,
+    "draws": 16,
+    "triangles": 43294,
+    "geometries": 24,
+    "textures": 4,
+    "meanFrameMs": 16.805,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -1.1170408277983193,
+        0.3500141948366801,
+        5.9093252528617795
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.9952638419777,
+        499.3222390515913
+      ],
+      "head": [
+        194.9949965291791,
+        439.7283375427368
+      ],
+      "widthAtPlayer": 7.818934956991998
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "map-4-start-390",
+    "mapId": 4,
+    "mapName": "Mint Glasshouse",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 0.16666666666666666,
+    "remaining": 59.833333333333336,
+    "shares": [
+      1.2533572068039391,
+      3.9838854073410923
+    ],
+    "counts": [
+      56,
+      178
+    ],
+    "total": 4468,
+    "actors": [
+      {
+        "x": 0,
+        "z": 7.2,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 56,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 0.09612195912477567,
+        "z": -7.424284571291145,
+        "heading": -3.237462993461562,
+        "charge": 0.9616666666666664,
+        "splashing": true,
+        "travel": 0.24401434372847375,
+        "paint": 178,
+        "stolen": 0,
+        "path": 10
+      }
+    ],
+    "winner": null,
+    "frame": 165,
+    "draws": 26,
+    "triangles": 105910,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.867878787878787,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -0.6170408277983191,
+        0.35001419483668017,
+        5.509325252861778
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.99526384197765,
+        499.32223905159145
+      ],
+      "head": [
+        194.99499652917902,
+        439.72833754273705
+      ],
+      "widthAtPlayer": 7.818934956991998
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "map-5-start-390",
+    "mapId": 5,
+    "mapName": "Sunset Rooftops",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 2.616279069767442,
+    "elapsed": 0.15,
+    "remaining": 59.85,
+    "shares": [
+      1.3565891472868217,
+      4.0939922480620154
+    ],
+    "counts": [
+      56,
+      169
+    ],
+    "total": 4128,
+    "actors": [
+      {
+        "x": 0,
+        "z": 7.3,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 56,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 0.09489076926723954,
+        "z": -7.48978153853448,
+        "heading": -3.0707963267948957,
+        "charge": 0.9654999999999998,
+        "splashing": true,
+        "travel": 0.2121822105187964,
+        "paint": 169,
+        "stolen": 0,
+        "path": 10
+      }
+    ],
+    "winner": null,
+    "frame": 210,
+    "draws": 27,
+    "triangles": 56338,
+    "geometries": 27,
+    "textures": 4,
+    "meanFrameMs": 16.759444444444444,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -0.6170192364107177,
+        0.35001594393146485,
+        5.60934942083495
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.99468025441217,
+        499.32112736717033
+      ],
+      "head": [
+        194.9943800036819,
+        439.727212400761
+      ],
+      "widthAtPlayer": 7.818940982130686
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "map-6-start-390",
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 4.126794258373206,
+    "elapsed": 0.15,
+    "remaining": 59.85,
+    "shares": [
+      1.1562998405103668,
+      3.3293460925039877
+    ],
+    "counts": [
+      58,
+      167
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": 0,
+        "z": 8.6,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 58,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 0.08358266753854143,
+        "z": -8.404973775743402,
+        "heading": -0.0707963267948965,
+        "charge": 0.9654999999999998,
+        "splashing": true,
+        "travel": 0.21218221051879693,
+        "paint": 167,
+        "stolen": 0,
+        "path": 6
+      }
+    ],
+    "winner": null,
+    "frame": 255,
+    "draws": 21,
+    "triangles": 69286,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.762777777777778,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -0.617019649292759,
+        0.3500159104843405,
+        6.909348958682064
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.99469141407658,
+        499.3211486253771
+      ],
+      "head": [
+        194.99439179320206,
+        439.7272339163092
+      ],
+      "widthAtPlayer": 7.818940866914697
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "east-390",
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 4.126794258373206,
+    "elapsed": 3.3666666666666596,
+    "remaining": 56.63333333333334,
+    "shares": [
+      5.263157894736842,
+      7.994417862838915
+    ],
+    "counts": [
+      264,
+      401
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": 8.505533254073482,
+        "z": 8.513614938742906,
+        "heading": 1.5794404415410497,
+        "charge": 0.7649999999999928,
+        "splashing": false,
+        "travel": 8.518711458301699,
+        "paint": 264,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": -0.22954546240004775,
+        "z": -8.499937574706147,
+        "heading": -4.711610227016677,
+        "charge": 0.22566666666666244,
+        "splashing": true,
+        "travel": 6.492406717592165,
+        "paint": 401,
+        "stolen": 0,
+        "path": 14
+      }
+    ],
+    "winner": null,
+    "frame": 5670,
+    "draws": 20,
+    "triangles": 66226,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.663888888888888,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        6.9998272416890455,
+        0.35000000000000236,
+        6.815947095627691
+      ],
+      "lead": [
+        0.8805771249113351,
+        -0.007611999302871178
+      ],
+      "feet": [
+        235.80227553404583,
+        511.44520206181926
+      ],
+      "head": [
+        238.12379678478368,
+        452.05958014839285
+      ],
+      "widthAtPlayer": 7.765149277915059
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "north-east-390",
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 4.126794258373206,
+    "elapsed": 9.616666666666724,
+    "remaining": 50.383333333333276,
+    "shares": [
+      12.06140350877193,
+      14.473684210526317
+    ],
+    "counts": [
+      605,
+      726
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": 8.509950940689844,
+        "z": -9.508319581140487,
+        "heading": 3.134283970581693,
+        "charge": 0.318888888888875,
+        "splashing": false,
+        "travel": 26.54502564191182,
+        "paint": 613,
+        "stolen": 2,
+        "path": 0
+      },
+      {
+        "x": 5.099999919220499,
+        "z": -5.552558088089614,
+        "heading": -6.283185186148496,
+        "charge": 0.12116666666665682,
+        "splashing": true,
+        "travel": 14.65750165401152,
+        "paint": 728,
+        "stolen": 8,
+        "path": 25
+      }
+    ],
+    "winner": null,
+    "frame": 6045,
+    "draws": 25,
+    "triangles": 72574,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.663888888888888,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        6.9999999999999964,
+        0.3500000000000002,
+        -7.999999279015306
+      ],
+      "lead": [
+        0.00716192093869123,
+        -0.9799020419166292
+      ],
+      "feet": [
+        283.35980125480154,
+        401.44730705813146
+      ],
+      "head": [
+        288.02290267143763,
+        340.55983780488765
+      ],
+      "widthAtPlayer": 8.366170655092384
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "north-west-390",
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 4.126794258373206,
+    "elapsed": 15.36666666666701,
+    "remaining": 44.63333333333299,
+    "shares": [
+      18.281499202551835,
+      17.862838915470494
+    ],
+    "counts": [
+      917,
+      896
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": -8.508035171720365,
+        "z": -9.354213252750133,
+        "heading": 4.721033095130843,
+        "charge": 0.05555555555555555,
+        "splashing": false,
+        "travel": 43.574142147596476,
+        "paint": 1001,
+        "stolen": 183,
+        "path": 0
+      },
+      {
+        "x": 6.382149054418912,
+        "z": -0.4890106995452803,
+        "heading": -2.774103414661682,
+        "charge": 0.13166666666665103,
+        "splashing": true,
+        "travel": 21.739899987864344,
+        "paint": 1079,
+        "stolen": 84,
+        "path": 7
+      }
+    ],
+    "winner": null,
+    "frame": 6390,
+    "draws": 17,
+    "triangles": 64066,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.66611111111108,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.999960147061301,
+        0.3500000000000002,
+        -7.9999999999999964
+      ],
+      "lead": [
+        -0.9317277800121471,
+        0.008054162343628627
+      ],
+      "feet": [
+        152.3955017170252,
+        371.76365787400204
+      ],
+      "head": [
+        150.19425750376948,
+        310.61979640825774
+      ],
+      "widthAtPlayer": 8.534377715238213
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "south-west-390",
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 4.126794258373206,
+    "elapsed": 21.866666666666706,
+    "remaining": 38.1333333333333,
+    "shares": [
+      21.311802232854866,
+      21.949760765550238
+    ],
+    "counts": [
+      1069,
+      1101
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": -8.509999701549079,
+        "z": 9.509997253393978,
+        "heading": 6.275876624171486,
+        "charge": 0.19999999999999993,
+        "splashing": false,
+        "travel": 62.440300604129845,
+        "paint": 1153,
+        "stolen": 183,
+        "path": 0
+      },
+      {
+        "x": 5.099999792211385,
+        "z": 0.3170553232017513,
+        "heading": 7.98879843472123e-7,
+        "charge": 0.17633333333331208,
+        "splashing": false,
+        "travel": 29.65338430639603,
+        "paint": 1284,
+        "stolen": 84,
+        "path": 33
+      }
+    ],
+    "winner": null,
+    "frame": 6780,
+    "draws": 17,
+    "triangles": 64066,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.66555555555557,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.9999999999999964,
+        0.3500000000000002,
+        7.998978657800111
+      ],
+      "lead": [
+        -0.002920315997970058,
+        0.3995609046979066
+      ],
+      "feet": [
+        102.79948581839177,
+        465.3527753759644
+      ],
+      "head": [
+        97.71321329326175,
+        405.2317081378341
+      ],
+      "widthAtPlayer": 8.010117596862383
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "small-320-south-west",
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 14.23444976076555,
+    "elapsed": 47.21666666666527,
+    "remaining": 12.783333333334731,
+    "shares": [
+      3.070175438596491,
+      47.28867623604466
+    ],
+    "counts": [
+      154,
+      2372
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": -8.49038228740294,
+        "z": 9.483984609201329,
+        "heading": 0.009021046503650628,
+        "charge": 0.7838888888888798,
+        "splashing": false,
+        "travel": 9.32642167416059,
+        "paint": 356,
+        "stolen": 129,
+        "path": 0
+      },
+      {
+        "x": -1.109842668779841,
+        "z": 8.29995388657882,
+        "heading": -10.995799998912087,
+        "charge": 0.7524999999999523,
+        "splashing": true,
+        "travel": 58.710440380701726,
+        "paint": 2501,
+        "stolen": 202,
+        "path": 36
+      }
+    ],
+    "winner": null,
+    "frame": 19920,
+    "draws": 17,
+    "triangles": 64066,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.666666666666668,
+    "viewport": [
+      320,
+      568
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 1.1549295774647887,
+      "target": [
+        -6.999999867703878,
+        0.3500000000000002,
+        7.9953881066216645
+      ],
+      "lead": [
+        -0.021065079134800872,
+        1.0351020289874326
+      ],
+      "feet": [
+        85.3940310207424,
+        319.1362871913412
+      ],
+      "head": [
+        81.27985166968162,
+        269.7999691314834
+      ],
+      "widthAtPlayer": 8.012314858701824
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "lookahead-430-active",
+    "mapId": 2,
+    "mapName": "Soda Docks",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 2.199999999999997,
+    "remaining": 57.800000000000004,
+    "shares": [
+      6.833333333333333,
+      6.0625
+    ],
+    "counts": [
+      328,
+      291
+    ],
+    "total": 4800,
+    "actors": [
+      {
+        "x": -4.4561906669208975,
+        "z": -0.29404201490501214,
+        "heading": 3.134283970581693,
+        "charge": 0.813333333333329,
+        "splashing": true,
+        "travel": 5.994202109881794,
+        "paint": 328,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 4.5,
+        "z": -1.4163645304809438,
+        "heading": 0,
+        "charge": 0.4939999999999971,
+        "splashing": true,
+        "travel": 4.283635469519056,
+        "paint": 291,
+        "stolen": 0,
+        "path": 19
+      }
+    ],
+    "winner": null,
+    "frame": 20115,
+    "draws": 18,
+    "triangles": 43402,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.666666666666668,
+    "viewport": [
+      430,
+      932
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9458154506437767,
+      "target": [
+        -5.0683336844341715,
+        0.3500000000000075,
+        -2.67901135215317
+      ],
+      "lead": [
+        0.008337717495321887,
+        -1.140775845300562
+      ],
+      "feet": [
+        201.7675378094077,
+        579.4203067419608
+      ],
+      "head": [
+        201.00796497209473,
+        514.2118970801816
+      ],
+      "widthAtPlayer": 7.699366919912788
+    },
+    "input": {
+      "x": 0.3472222222222222,
+      "y": -0.9300595238095238,
+      "splash": true
+    }
+  },
+  {
+    "check": "landscape-844-paused",
+    "mapId": 2,
+    "mapName": "Soda Docks",
+    "phase": "paused",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 4.116666666666657,
+    "remaining": 55.88333333333334,
+    "shares": [
+      9.895833333333332,
+      11.4375
+    ],
+    "counts": [
+      475,
+      549
+    ],
+    "total": 4800,
+    "actors": [
+      {
+        "x": -4.415262413508211,
+        "z": -5.893891483262974,
+        "heading": 3.134283970581693,
+        "charge": 0.8133333333333246,
+        "splashing": false,
+        "travel": 11.594201144720653,
+        "paint": 475,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 3.8445353462563565,
+        "z": 0.602554889128761,
+        "heading": -3.436336249505361,
+        "charge": 0.05316666666666268,
+        "splashing": true,
+        "travel": 8.00302230199813,
+        "paint": 549,
+        "stolen": 0,
+        "path": 15
+      }
+    ],
+    "winner": null,
+    "frame": 25185,
+    "draws": 16,
+    "triangles": 43294,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.671666666666795,
+    "viewport": [
+      844,
+      390
+    ],
+    "camera": {
+      "portrait": false,
+      "zoom": 1.12,
+      "target": [
+        -4.41550972751978,
+        0.35,
+        -5.800886311011978
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        423.09615841677834,
+        202.15068673902775
+      ],
+      "head": [
+        423.1647878797717,
+        150.19664056526616
+      ],
+      "widthAtPlayer": 24.050199889650635
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "portrait-after-rotation-390",
+    "mapId": 2,
+    "mapName": "Soda Docks",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 4.766666666666655,
+    "remaining": 55.23333333333335,
+    "shares": [
+      9.895833333333332,
+      11.458333333333332
+    ],
+    "counts": [
+      475,
+      550
+    ],
+    "total": 4800,
+    "actors": [
+      {
+        "x": -4.415261044902518,
+        "z": -5.894078737426642,
+        "heading": 3.134283970581693,
+        "charge": 1,
+        "splashing": false,
+        "travel": 11.594388403885695,
+        "paint": 475,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 3.8819617601735588,
+        "z": 0.4075303461815173,
+        "heading": -3.1958357510186133,
+        "charge": 0.2653333333333295,
+        "splashing": false,
+        "travel": 8.201851852338407,
+        "paint": 550,
+        "stolen": 0,
+        "path": 15
+      }
+    ],
+    "winner": null,
+    "frame": 25260,
+    "draws": 18,
+    "triangles": 43402,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.66111111111111,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -5.032433584718865,
+        0.35,
+        -7.584823782250009
+      ],
+      "lead": [
+        6.8253012217013515e-12,
+        -9.33845356956019e-10
+      ],
+      "feet": [
+        195.0001106441428,
+        499.3261154998429
+      ],
+      "head": [
+        195.00011688901313,
+        439.7322370453529
+      ],
+      "widthAtPlayer": 7.818910903139599
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  }
+]

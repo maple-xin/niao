@@ -1,0 +1,103 @@
+{
+  "mapId": 1,
+  "mapName": "Lavender Yard",
+  "phase": "playing",
+  "help": false,
+  "mapsOpen": false,
+  "completed": [],
+  "best": 7.72403449568804,
+  "elapsed": 1.016666666666668,
+  "remaining": 58.983333333333334,
+  "shares": [
+    2.1372328458942635,
+    2.8683914510686166
+  ],
+  "counts": [
+    114,
+    153
+  ],
+  "total": 5334,
+  "actors": [
+    {
+      "x": 1.060261356979645,
+      "z": 5.093191623679869,
+      "heading": 1.9207963267948966,
+      "charge": 0.926666666666665,
+      "splashing": true,
+      "travel": 2.3529120302845636,
+      "paint": 145,
+      "stolen": 1,
+      "path": 0
+    },
+    {
+      "x": -0.3000092292075471,
+      "z": 3.837452695090572,
+      "heading": 0.00003229513633110006,
+      "charge": 0.7661666666666653,
+      "splashing": true,
+      "travel": 1.9466356349358416,
+      "paint": 154,
+      "stolen": 31,
+      "path": 5
+    }
+  ],
+  "winner": null,
+  "frame": 810,
+  "draws": 26,
+  "triangles": 65698,
+  "geometries": 26,
+  "textures": 4,
+  "meanFrameMs": 16.666666666666668,
+  "viewport": [
+    390,
+    844
+  ],
+  "camera": {
+    "portrait": true,
+    "zoom": 0.9472748815165876,
+    "target": [
+      0.9774972724810247,
+      0.3500000329316289,
+      3.207231146201072
+    ],
+    "lead": [
+      1.014139245950243,
+      -0.370189722497679
+    ],
+    "feet": [
+      167.319469063073,
+      499.3312400968603
+    ],
+    "head": [
+      165.75714582430066,
+      439.73744755429937
+    ],
+    "widthAtPlayer": 7.820727562135698
+  },
+  "audio": {
+    "supported": true,
+    "unlocked": true,
+    "context": "running",
+    "musicEnabled": true,
+    "effectsEnabled": true,
+    "musicPlaying": true,
+    "flowPlaying": true,
+    "musicOffset": 1.0133333333333334,
+    "musicStarts": 1,
+    "musicStops": 0,
+    "voices": 1,
+    "events": {
+      "start": 1,
+      "sprayOn": 1,
+      "claim": 1,
+      "step": 3
+    },
+    "outputRms": 0.04478387240899432,
+    "error": ""
+  },
+  "input": {
+    "x": 1,
+    "y": 0,
+    "splash": true
+  }
+}

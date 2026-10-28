@@ -1,0 +1,104 @@
+{
+  "mapId": 1,
+  "mapName": "Lavender Yard",
+  "phase": "playing",
+  "help": false,
+  "mapsOpen": false,
+  "completed": [],
+  "best": 45.50056242969629,
+  "elapsed": 1.649999999999999,
+  "remaining": 58.35,
+  "shares": [
+    5.849268841394826,
+    3.543307086614173
+  ],
+  "counts": [
+    312,
+    189
+  ],
+  "total": 5334,
+  "actors": [
+    {
+      "x": -5.4802660591703845,
+      "z": 7.480670501794241,
+      "heading": -1.2207963267948967,
+      "charge": 0.8949999999999967,
+      "splashing": false,
+      "travel": 4.609742224728566,
+      "paint": 378,
+      "stolen": 0,
+      "path": 0
+    },
+    {
+      "x": -0.30000004611022657,
+      "z": 5.110452691763307,
+      "heading": 2.6136892891824454e-7,
+      "charge": 0.6204999999999978,
+      "splashing": true,
+      "travel": 3.219635631671875,
+      "paint": 189,
+      "stolen": 66,
+      "path": 3
+    }
+  ],
+  "winner": null,
+  "frame": 5190,
+  "draws": 26,
+  "triangles": 65698,
+  "geometries": 26,
+  "textures": 4,
+  "meanFrameMs": 16.66611111111116,
+  "viewport": [
+    1280,
+    720
+  ],
+  "camera": {
+    "portrait": false,
+    "zoom": 1.12,
+    "target": [
+      -4.721020086863085,
+      0.35000000043903917,
+      4.999673488950335
+    ],
+    "lead": [
+      0,
+      0
+    ],
+    "feet": [
+      533.0967517858221,
+      470.0653595923468
+    ],
+    "head": [
+      525.7954572453452,
+      372.05034064821217
+    ],
+    "widthAtPlayer": 18.244172478288288
+  },
+  "audio": {
+    "supported": true,
+    "unlocked": true,
+    "context": "running",
+    "musicEnabled": true,
+    "effectsEnabled": true,
+    "musicPlaying": true,
+    "flowPlaying": false,
+    "musicOffset": 1.632,
+    "musicStarts": 1,
+    "musicStops": 0,
+    "voices": 2,
+    "events": {
+      "start": 1,
+      "sprayOn": 1,
+      "claim": 2,
+      "step": 6,
+      "sprayOff": 1
+    },
+    "outputRms": 0.0836731817254589,
+    "error": ""
+  },
+  "input": {
+    "x": 0,
+    "y": 0,
+    "splash": false
+  }
+}

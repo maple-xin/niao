@@ -1,0 +1,302 @@
+[
+  {
+    "mapId": 3,
+    "mapName": "Blockworks",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 1.7499999999999987,
+    "remaining": 58.25,
+    "shares": [
+      1.8625192012288787,
+      5.702764976958526
+    ],
+    "counts": [
+      97,
+      297
+    ],
+    "total": 5208,
+    "actors": [
+      {
+        "x": -0.5,
+        "z": 7.6,
+        "heading": 1.5707963267948966,
+        "charge": 0.9699999999999966,
+        "splashing": false,
+        "travel": 0,
+        "paint": 97,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": 0.12261470142106859,
+        "z": -4.345536382196474,
+        "heading": -1.3333289727137267,
+        "charge": 0.5974999999999977,
+        "splashing": true,
+        "travel": 3.38071034751754,
+        "paint": 297,
+        "stolen": 0,
+        "path": 1
+      }
+    ],
+    "winner": null,
+    "frame": 4170,
+    "draws": 24,
+    "triangles": 51802,
+    "geometries": 24,
+    "textures": 4,
+    "meanFrameMs": 16.665000000000063,
+    "viewport": [
+      1280,
+      800
+    ],
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "mapId": 4,
+    "mapName": "Mint Glasshouse",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 1.8999999999999981,
+    "remaining": 58.1,
+    "shares": [
+      2.1486123545210387,
+      6.199641897940913
+    ],
+    "counts": [
+      96,
+      277
+    ],
+    "total": 4468,
+    "actors": [
+      {
+        "x": 0,
+        "z": 7.2,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 96,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": -2.7386721067214888,
+        "z": -7.899999938542945,
+        "heading": -1.5707964296024646,
+        "charge": 0.5629999999999975,
+        "splashing": true,
+        "travel": 3.6464023108664496,
+        "paint": 277,
+        "stolen": 0,
+        "path": 4
+      }
+    ],
+    "winner": null,
+    "frame": 4320,
+    "draws": 21,
+    "triangles": 99562,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.762777777777714,
+    "viewport": [
+      1280,
+      800
+    ],
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "mapId": 5,
+    "mapName": "Sunset Rooftops",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 1.7833333333333319,
+    "remaining": 58.21666666666667,
+    "shares": [
+      2.3255813953488373,
+      6.613372093023257
+    ],
+    "counts": [
+      96,
+      273
+    ],
+    "total": 4128,
+    "actors": [
+      {
+        "x": 0,
+        "z": 7.3,
+        "heading": 1.5707963267948966,
+        "charge": 0.9922222222222188,
+        "splashing": false,
+        "travel": 0,
+        "paint": 96,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": -2.611346546508254,
+        "z": -7.899999888365741,
+        "heading": -1.570796489129563,
+        "charge": 0.589833333333331,
+        "splashing": true,
+        "travel": 3.4087781779287183,
+        "paint": 273,
+        "stolen": 0,
+        "path": 4
+      }
+    ],
+    "winner": null,
+    "frame": 4455,
+    "draws": 22,
+    "triangles": 49990,
+    "geometries": 27,
+    "textures": 4,
+    "meanFrameMs": 16.66611111111116,
+    "viewport": [
+      1280,
+      800
+    ],
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "mapId": 6,
+    "mapName": "Arcade Alley",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 1.6999999999999988,
+    "remaining": 58.300000000000004,
+    "shares": [
+      1.933811802232855,
+      6.020733652312599
+    ],
+    "counts": [
+      97,
+      302
+    ],
+    "total": 5016,
+    "actors": [
+      {
+        "x": 0,
+        "z": 8.6,
+        "heading": 1.5707963267948966,
+        "charge": 0.9255555555555524,
+        "splashing": false,
+        "travel": 0,
+        "paint": 97,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": -0.535862013591215,
+        "z": -6.1002567368359735,
+        "heading": -1.569675635945376,
+        "charge": 0.6089999999999978,
+        "splashing": true,
+        "travel": 3.2707495012306866,
+        "paint": 302,
+        "stolen": 0,
+        "path": 1
+      }
+    ],
+    "winner": null,
+    "frame": 4590,
+    "draws": 25,
+    "triangles": 72574,
+    "geometries": 25,
+    "textures": 4,
+    "meanFrameMs": 16.662777777777794,
+    "viewport": [
+      1280,
+      800
+    ],
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 1.816666666666665,
+    "remaining": 58.18333333333334,
+    "shares": [
+      1.1998500187476566,
+      3.655793025871766
+    ],
+    "counts": [
+      64,
+      195
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -1.1570964296404762,
+        "z": 5.903794897637899,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 99,
+        "stolen": 3,
+        "path": 0
+      },
+      {
+        "x": -0.292903570634434,
+        "z": 5.441657794125355,
+        "heading": 2.8016098532203268e-9,
+        "charge": 0.5821666666666643,
+        "splashing": true,
+        "travel": 3.5546356316718266,
+        "paint": 198,
+        "stolen": 35,
+        "path": 2
+      }
+    ],
+    "winner": null,
+    "frame": 4740,
+    "draws": 26,
+    "triangles": 65698,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.669444444444444,
+    "viewport": [
+      1280,
+      800
+    ],
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  }
+]

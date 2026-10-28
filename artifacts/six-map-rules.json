@@ -1,0 +1,120 @@
+{
+  "method": "Fixed-step pure-rule tests. Real browser input and art reviewed separately.",
+  "secondsPerRound": 60,
+  "rounds": [
+    {
+      "mapId": 1,
+      "name": "Lavender Yard",
+      "freeCells": 5334,
+      "navigationNodes": 702,
+      "counts": [
+        2588,
+        1371
+      ],
+      "shares": [
+        48.51893513310836,
+        25.703037120359955
+      ],
+      "winner": "win",
+      "travel": [
+        194.85,
+        75.19
+      ]
+    },
+    {
+      "mapId": 2,
+      "name": "Soda Docks",
+      "freeCells": 4800,
+      "navigationNodes": 596,
+      "counts": [
+        3080,
+        840
+      ],
+      "shares": [
+        64.16666666666667,
+        17.5
+      ],
+      "winner": "win",
+      "travel": [
+        196.82,
+        75.72
+      ]
+    },
+    {
+      "mapId": 3,
+      "name": "Blockworks",
+      "freeCells": 5208,
+      "navigationNodes": 653,
+      "counts": [
+        2697,
+        1044
+      ],
+      "shares": [
+        51.78571428571429,
+        20.046082949308754
+      ],
+      "winner": "win",
+      "travel": [
+        195.97,
+        75.92
+      ]
+    },
+    {
+      "mapId": 4,
+      "name": "Mint Glasshouse",
+      "freeCells": 4468,
+      "navigationNodes": 544,
+      "counts": [
+        2214,
+        1493
+      ],
+      "shares": [
+        49.55237242614145,
+        33.41539838854074
+      ],
+      "winner": "win",
+      "travel": [
+        197.27,
+        75.59
+      ]
+    },
+    {
+      "mapId": 5,
+      "name": "Sunset Rooftops",
+      "freeCells": 4128,
+      "navigationNodes": 500,
+      "counts": [
+        2128,
+        1410
+      ],
+      "shares": [
+        51.55038759689923,
+        34.156976744186046
+      ],
+      "winner": "win",
+      "travel": [
+        196.2,
+        75.6
+      ]
+    },
+    {
+      "mapId": 6,
+      "name": "Arcade Alley",
+      "freeCells": 5016,
+      "navigationNodes": 608,
+      "counts": [
+        2414,
+        1390
+      ],
+      "shares": [
+        48.12599681020734,
+        27.711323763955342
+      ],
+      "winner": "win",
+      "travel": [
+        196.74,
+        76.16
+      ]
+    }
+  ]
+}

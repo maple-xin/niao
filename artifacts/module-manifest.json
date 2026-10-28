@@ -1,0 +1,16 @@
+{
+  "entry": "src/main.js",
+  "modules": [
+    "src/main.js",
+    "vendor/three.module.js",
+    "src/logic.js",
+    "src/art.js",
+    "src/ui.js",
+    "src/audio.js",
+    "src/maps.js",
+    "vendor/three.core.js",
+    "vendor/RoundedBoxGeometry.js",
+    "vendor/BufferGeometryUtils.js"
+  ],
+  "standalone": "SPLASH_Blox_Play.html"
+}

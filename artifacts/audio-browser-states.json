@@ -1,0 +1,656 @@
+[
+  {
+    "check": "before-full-loop",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 0.21666666666666665,
+    "remaining": 59.78333333333333,
+    "shares": [
+      0.9186351706036745,
+      2.0622422197225347
+    ],
+    "counts": [
+      49,
+      110
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -1.15,
+        "z": 5.9,
+        "heading": 1.5707963267948966,
+        "charge": 1,
+        "splashing": false,
+        "travel": 0,
+        "paint": 56,
+        "stolen": 0,
+        "path": 0
+      },
+      {
+        "x": -0.2744213265246687,
+        "z": 2.2327344838526266,
+        "heading": -0.04234219719872574,
+        "charge": 0.9501666666666664,
+        "splashing": true,
+        "travel": 0.34126061145196124,
+        "paint": 110,
+        "stolen": 7,
+        "path": 7
+      }
+    ],
+    "winner": null,
+    "frame": 6135,
+    "draws": 26,
+    "triangles": 65698,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.66555555555557,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -1.7671048040330024,
+        0.35000901219161373,
+        4.209253642090301
+      ],
+      "lead": [
+        0,
+        0
+      ],
+      "feet": [
+        194.9969930430634,
+        499.3255330318293
+      ],
+      "head": [
+        194.99682332743316,
+        439.7316713990115
+      ],
+      "widthAtPlayer": 7.818917104283174
+    },
+    "audio": {
+      "supported": true,
+      "unlocked": true,
+      "context": "running",
+      "musicEnabled": true,
+      "effectsEnabled": true,
+      "musicPlaying": true,
+      "flowPlaying": false,
+      "musicOffset": 0.18666666666666032,
+      "musicStarts": 2,
+      "musicStops": 1,
+      "voices": 1,
+      "events": {
+        "start": 2,
+        "ui": 1
+      },
+      "outputRms": 0.10223121041684774,
+      "error": ""
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "after-full-loop",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 52.716666666664956,
+    "remaining": 7.283333333335044,
+    "shares": [
+      8.080239970003749,
+      49.4750656167979
+    ],
+    "counts": [
+      431,
+      2639
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -8.509983888838997,
+        "z": -9.509821418918762,
+        "heading": 3.4915926535897936,
+        "charge": 0.13333333333333333,
+        "splashing": false,
+        "travel": 18.193527682011876,
+        "paint": 526,
+        "stolen": 279,
+        "path": 0
+      },
+      {
+        "x": -1.5445510577703878,
+        "z": 1.5623412145252904,
+        "heading": 6.415757247505098,
+        "charge": 0.8101666666666135,
+        "splashing": true,
+        "travel": 65.38691203050611,
+        "paint": 2918,
+        "stolen": 95,
+        "path": 26
+      }
+    ],
+    "winner": null,
+    "frame": 9285,
+    "draws": 18,
+    "triangles": 57190,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.673888888888985,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.9999999999999964,
+        0.3500000000000002,
+        -7.9999999999999964
+      ],
+      "lead": [
+        -0.20553768011017343,
+        -0.5630729738116931
+      ],
+      "feet": [
+        154.83461260823677,
+        366.9805852485285
+      ],
+      "head": [
+        152.76654606580632,
+        305.80129971795174
+      ],
+      "widthAtPlayer": 8.564534805114661
+    },
+    "audio": {
+      "supported": true,
+      "unlocked": true,
+      "context": "running",
+      "musicEnabled": true,
+      "effectsEnabled": true,
+      "musicPlaying": true,
+      "flowPlaying": false,
+      "musicOffset": 17.77888435374149,
+      "musicStarts": 2,
+      "musicStops": 1,
+      "voices": 0,
+      "events": {
+        "start": 2,
+        "ui": 1,
+        "sprayOn": 1,
+        "reclaim": 7,
+        "step": 24,
+        "claim": 3,
+        "bump": 1,
+        "sprayOff": 1,
+        "empty": 1,
+        "tick": 3
+      },
+      "outputRms": 0.019390699507566216,
+      "error": ""
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "pause-after-loop",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "paused",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 52.916666666664945,
+    "remaining": 7.083333333335055,
+    "shares": [
+      7.892763404574428,
+      49.66254218222722
+    ],
+    "counts": [
+      421,
+      2649
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -8.509999478994851,
+        "z": -9.509998488139633,
+        "heading": 3.4915926535897936,
+        "charge": 0.26666666666666655,
+        "splashing": false,
+        "travel": 18.193708575118578,
+        "paint": 526,
+        "stolen": 279,
+        "path": 0
+      },
+      {
+        "x": -1.5096620208622853,
+        "z": 1.9601937108201088,
+        "heading": 6.312545926940953,
+        "charge": 0.7641666666666133,
+        "splashing": true,
+        "travel": 65.7867329196581,
+        "paint": 2928,
+        "stolen": 105,
+        "path": 26
+      }
+    ],
+    "winner": null,
+    "frame": 9300,
+    "draws": 16,
+    "triangles": 57082,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.655555555555555,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.9999999999999964,
+        0.3500000000000002,
+        -7.9999999999999964
+      ],
+      "lead": [
+        -0.09332928489218024,
+        -0.2556767107607222
+      ],
+      "feet": [
+        154.83682106562213,
+        366.975010988275
+      ],
+      "head": [
+        152.76887657209417,
+        305.7956851264694
+      ],
+      "widthAtPlayer": 8.564570284527102
+    },
+    "audio": {
+      "supported": true,
+      "unlocked": true,
+      "context": "running",
+      "musicEnabled": true,
+      "effectsEnabled": true,
+      "musicPlaying": false,
+      "flowPlaying": false,
+      "musicOffset": 17.992217687074827,
+      "musicStarts": 2,
+      "musicStops": 2,
+      "voices": 1,
+      "events": {
+        "start": 2,
+        "ui": 2,
+        "sprayOn": 1,
+        "reclaim": 7,
+        "step": 24,
+        "claim": 3,
+        "bump": 1,
+        "sprayOff": 1,
+        "empty": 1,
+        "tick": 3
+      },
+      "outputRms": 0.028017071475818528,
+      "error": ""
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "pause-quiet",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "paused",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 52.916666666664945,
+    "remaining": 7.083333333335055,
+    "shares": [
+      7.892763404574428,
+      49.66254218222722
+    ],
+    "counts": [
+      421,
+      2649
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -8.509999478994851,
+        "z": -9.509998488139633,
+        "heading": 3.4915926535897936,
+        "charge": 0.26666666666666655,
+        "splashing": false,
+        "travel": 18.193708575118578,
+        "paint": 526,
+        "stolen": 279,
+        "path": 0
+      },
+      {
+        "x": -1.5096620208622853,
+        "z": 1.9601937108201088,
+        "heading": 6.312545926940953,
+        "charge": 0.7641666666666133,
+        "splashing": true,
+        "travel": 65.7867329196581,
+        "paint": 2928,
+        "stolen": 105,
+        "path": 26
+      }
+    ],
+    "winner": null,
+    "frame": 12420,
+    "draws": 16,
+    "triangles": 57082,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.667222222222254,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.9999999999999964,
+        0.3500000000000002,
+        -7.9999999999999964
+      ],
+      "lead": [
+        -0.09332928489218024,
+        -0.2556767107607222
+      ],
+      "feet": [
+        154.83682106562213,
+        366.975010988275
+      ],
+      "head": [
+        152.76887657209417,
+        305.7956851264694
+      ],
+      "widthAtPlayer": 8.564570284527102
+    },
+    "audio": {
+      "supported": true,
+      "unlocked": true,
+      "context": "running",
+      "musicEnabled": true,
+      "effectsEnabled": true,
+      "musicPlaying": false,
+      "flowPlaying": false,
+      "musicOffset": 17.992217687074827,
+      "musicStarts": 2,
+      "musicStops": 2,
+      "voices": 0,
+      "events": {
+        "start": 2,
+        "ui": 2,
+        "sprayOn": 1,
+        "reclaim": 7,
+        "step": 24,
+        "claim": 3,
+        "bump": 1,
+        "sprayOff": 1,
+        "empty": 1,
+        "tick": 3
+      },
+      "outputRms": 0,
+      "error": ""
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "resume-offset",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "playing",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 0,
+    "elapsed": 53.04999999999827,
+    "remaining": 6.9500000000017295,
+    "shares": [
+      7.72403449568804,
+      49.86876640419948
+    ],
+    "counts": [
+      412,
+      2660
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -8.509999987177677,
+        "z": -9.50999988031266,
+        "heading": 3.4915926535897936,
+        "charge": 0.35555555555555557,
+        "splashing": false,
+        "travel": 18.19371005714271,
+        "paint": 526,
+        "stolen": 279,
+        "path": 0
+      },
+      {
+        "x": -1.4602922593075276,
+        "z": 2.1951626694421096,
+        "heading": 6.808528499752043,
+        "charge": 0.7334999999999464,
+        "splashing": true,
+        "travel": 66.03656618403788,
+        "paint": 2939,
+        "stolen": 114,
+        "path": 20
+      }
+    ],
+    "winner": null,
+    "frame": 12435,
+    "draws": 18,
+    "triangles": 57190,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.671666666666635,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.9999999999999964,
+        0.3500000000000002,
+        -7.9999999999999964
+      ],
+      "lead": [
+        -0.05460818980729932,
+        -0.14959979996265158
+      ],
+      "feet": [
+        154.83682239512126,
+        366.9749628687229
+      ],
+      "head": [
+        152.7688780420259,
+        305.79563665876935
+      ],
+      "widthAtPlayer": 8.56457059452455
+    },
+    "audio": {
+      "supported": true,
+      "unlocked": true,
+      "context": "running",
+      "musicEnabled": true,
+      "effectsEnabled": true,
+      "musicPlaying": true,
+      "flowPlaying": false,
+      "musicOffset": 18.08288435374149,
+      "musicStarts": 3,
+      "musicStops": 2,
+      "voices": 2,
+      "events": {
+        "start": 2,
+        "ui": 3,
+        "sprayOn": 1,
+        "reclaim": 7,
+        "step": 24,
+        "claim": 3,
+        "bump": 1,
+        "sprayOff": 1,
+        "empty": 1,
+        "tick": 4
+      },
+      "outputRms": 0.03771955193123885,
+      "error": ""
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  },
+  {
+    "check": "result-stinger",
+    "mapId": 1,
+    "mapName": "Lavender Yard",
+    "phase": "result",
+    "help": false,
+    "mapsOpen": false,
+    "completed": [],
+    "best": 7.72403449568804,
+    "elapsed": 59.999999999997875,
+    "remaining": 0,
+    "shares": [
+      7.72403449568804,
+      50.35620547431571
+    ],
+    "counts": [
+      412,
+      2686
+    ],
+    "total": 5334,
+    "actors": [
+      {
+        "x": -8.415041982381243,
+        "z": -9.249861356270463,
+        "heading": 3.4915926535897936,
+        "charge": 1,
+        "splashing": false,
+        "travel": 18.470638229055997,
+        "paint": 526,
+        "stolen": 279,
+        "path": 0
+      },
+      {
+        "x": 1.4999995499746321,
+        "z": 0.7763428541187635,
+        "heading": 6.283186427495222,
+        "charge": 0.4576666666666057,
+        "splashing": false,
+        "travel": 75.07070608898115,
+        "paint": 2965,
+        "stolen": 114,
+        "path": 19
+      }
+    ],
+    "winner": "loss",
+    "frame": 12885,
+    "draws": 16,
+    "triangles": 57082,
+    "geometries": 26,
+    "textures": 4,
+    "meanFrameMs": 16.66611111111108,
+    "viewport": [
+      390,
+      844
+    ],
+    "camera": {
+      "portrait": true,
+      "zoom": 0.9472748815165876,
+      "target": [
+        -6.9999999999999964,
+        0.3500000000000002,
+        -7.9999999999999964
+      ],
+      "lead": [
+        0.004890035696539771,
+        0.013396312249024437
+      ],
+      "feet": [
+        154.58685007526785,
+        376.02244396745004
+      ],
+      "head": [
+        152.4924129285663,
+        314.91149810559926
+      ],
+      "widthAtPlayer": 8.506848926038487
+    },
+    "audio": {
+      "supported": true,
+      "unlocked": true,
+      "context": "running",
+      "musicEnabled": true,
+      "effectsEnabled": true,
+      "musicPlaying": false,
+      "flowPlaying": false,
+      "musicOffset": 25.04821768707481,
+      "musicStarts": 3,
+      "musicStops": 3,
+      "voices": 1,
+      "events": {
+        "start": 2,
+        "ui": 3,
+        "sprayOn": 1,
+        "reclaim": 7,
+        "step": 24,
+        "claim": 3,
+        "bump": 1,
+        "sprayOff": 1,
+        "empty": 1,
+        "tick": 10,
+        "refill": 1,
+        "loss": 1
+      },
+      "outputRms": 0.06185319376303615,
+      "error": ""
+    },
+    "input": {
+      "x": 0,
+      "y": 0,
+      "splash": false
+    }
+  }
+]

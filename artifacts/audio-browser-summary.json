@@ -1,0 +1,76 @@
+{
+  "method": "Observed browser values transcribed from tool outputs before the interrupted REPL session; raw full-state history was not retained. Screenshots are the corresponding actual browser captures.",
+  "checks": {
+    "beforeGesture": {
+      "context": "locked",
+      "unlocked": false,
+      "outputRms": 0
+    },
+    "start": {
+      "context": "running",
+      "musicPlaying": true,
+      "musicStarts": 1,
+      "outputRms": 0.04849216952283791
+    },
+    "moveAndSplash": {
+      "musicPlaying": true,
+      "flowPlaying": true,
+      "events": {
+        "sprayOn": 1,
+        "claim": 1,
+        "step": 5,
+        "reclaim": 1
+      },
+      "outputRms": 0.04343462423912774
+    },
+    "pause": {
+      "musicPlaying": false,
+      "flowPlaying": false,
+      "musicOffset": 3.749333333333333,
+      "outputRms": 0
+    },
+    "effectsOnly": {
+      "musicEnabled": false,
+      "effectsEnabled": true,
+      "musicPlaying": false,
+      "flowPlaying": true,
+      "outputRms": 0.037645450429286825
+    },
+    "bothOff": {
+      "musicEnabled": false,
+      "effectsEnabled": false,
+      "musicPlaying": false,
+      "flowPlaying": false,
+      "outputRms": 0
+    },
+    "musicOnly": {
+      "musicEnabled": true,
+      "effectsEnabled": false,
+      "musicPlaying": true,
+      "flowPlaying": false,
+      "outputRms": 0.05120425133651161
+    },
+    "savedAfterReload": {
+      "unlocked": false,
+      "musicEnabled": true,
+      "effectsEnabled": false,
+      "outputRms": 0
+    },
+    "inkEmpty": {
+      "charge": 0,
+      "flowPlaying": false,
+      "events": {
+        "empty": 1
+      },
+      "outputRms": 0.11582007330626942
+    },
+    "refillComplete": {
+      "charge": 1,
+      "events": {
+        "refill": 1
+      },
+      "musicPlaying": true,
+      "outputRms": 0.02706444776568385
+    }
+  }
+}
